@@ -123,3 +123,6 @@ if __name__ == '__main__':
     # fonts =['fonts/Amiri-Regular.ttf'] <- if you only have one font
 
     ar_generate_data(strings, fonts, size=64, limit=10)
+
+    # DONE: I really hope this was helpful
+    # NOTE: Don't forget when you run make sure your interpreter is the venv we created
