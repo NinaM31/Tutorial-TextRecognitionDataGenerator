@@ -1,0 +1,10 @@
+synth_sample/10.jpg	ﺍﺑﺘﺴﺎﻡ
+synth_sample/9.jpg	ﺍﺑﺘﻬﺎﺝ
+synth_sample/8.jpg	ﺍﺑﺘﻬﺎﻝ
+synth_sample/7.jpg	ﺍﺟﺘﻬﺎﺩ
+synth_sample/6.jpg	ﺍﺯﺩﻫﺎﺭ
+synth_sample/5.jpg	ﺍﻋﺘﺪﺍﻝ
+synth_sample/4.jpg	ﺍﻋﺘﻤﺎﺩ
+synth_sample/3.jpg	ﺍﻓﺘﺨﺎﺭ
+synth_sample/2.jpg	ﺍﻓﺘﻜﺎﺭ
+synth_sample/1.jpg	ﺍﻟﺒﺘﻮﻝ
