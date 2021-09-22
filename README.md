@@ -8,10 +8,8 @@ Clone the repo and create a virtual environment + install the requirements
 
 #### Windows
 
-You need python 3.8 for this. 3.9 caused some issue with Pillow
-
 ```
-py -m virtualenv -p="path/to/python38/python.exe" ./venv
+py -m virtualenv -p="path/to/python39/python.exe" ./venv
 ```
 
 ```
