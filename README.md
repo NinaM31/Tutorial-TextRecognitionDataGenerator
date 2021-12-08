@@ -19,7 +19,6 @@ venv\Scripts\activate
 ```
 pip install -r requirements.txt
 ```
-
 ## Data
 
 The data that I'll be using is this [Arabic Name](https://www.kaggle.com/lailamohammed/arabic-names)
